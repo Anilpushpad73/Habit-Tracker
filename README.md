@@ -37,16 +37,16 @@ src/
 
 ### Getting Started
 
-1. Clone the repository
-2. Install dependencies:
+
+1. Install dependencies:
    ```bash
    npm install
    ```
-3. Start the development server:
+2. Start the development server:
    ```bash
    npm run dev
    ```
-4. Open your browser to the provided URL
+3. Open your browser to the provided URL
 
 ### Building for Production
 
